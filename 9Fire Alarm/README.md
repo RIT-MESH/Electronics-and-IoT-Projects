@@ -12,3 +12,7 @@
 
 <p align="center"><img src="https://github.com/RIT-MESH/Electronics-and-IoT-Projects/blob/main/9Fire%20Alarm/fire%20alarm%20simulation.gif?raw=true"alt="Sublime's custom image"/>
 </p>
+
+
+
+## For Task 2 [Click here](https://github.com/RIT-MESH/Electronics-and-IoT-Projects/tree/main/10Hand%20Sanitizer) 
