@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center">Fire Alarm Simulation
+<h1 align="center">Touchless Hand Sanitizers Simulation
 </h1>
 
 
