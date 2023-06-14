@@ -1,4 +1,4 @@
-<h1 align="center">Task2:Touchless Hand Sanitizers
+<h1 align="center">Task2:Touchless Hand Sanitizer
 </h1>
 
 
@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center">Touchless Hand Sanitizers Simulation
+<h1 align="center">Touchless Hand Sanitizer Simulation
 </h1>
 
 
