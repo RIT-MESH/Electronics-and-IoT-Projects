@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center">Fire Alarm Smulation
+<h1 align="center">Fire Alarm Simulation
 </h1>
 
 
