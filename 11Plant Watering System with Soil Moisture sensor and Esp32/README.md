@@ -1,4 +1,16 @@
-<h1 align="center">Soil Moisture Sensor
+## parts needed
+1) ESP32
+2) Soil moisture sensor (Glyduino FC-28 )
+3) DHT11
+4) Relay
+5) Water pump module
+6) Breadboard
+7) Jumper wire
+
+
+
+
+<h1 align="center">Circuit
 </h1>
 
 
