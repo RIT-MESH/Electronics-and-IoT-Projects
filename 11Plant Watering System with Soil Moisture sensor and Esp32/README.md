@@ -1,3 +1,8 @@
+<h1 align="center">Plant Watering System with Soil Moisture sensor,Esp32 and ThingSpeak
+</h1>
+
+
+
 ## parts needed
 1) ESP32
 2) Soil moisture sensor (Glyduino FC-28 )
