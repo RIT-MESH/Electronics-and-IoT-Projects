@@ -69,5 +69,7 @@ Now open the cloud shell and paste the following commands to connect Azure platf
 
 ##### az iot hub monitor-event --hub-name ESP32DEMO --device-id ESP32THING
 
+After connection we will see the folloing out put
+
 <p align="center"><img src="https://github.com/RIT-MESH/Electronics-and-IoT-Projects/blob/main/12Implementing%20IoT%20with%20Azure%20-(Sending%20Data%20to%20Azure%20Iot%20Hub%20using%20ESP32)/Azure%20step%2010.png?raw=true"alt="Sublime's custom image"/>
 </p>
