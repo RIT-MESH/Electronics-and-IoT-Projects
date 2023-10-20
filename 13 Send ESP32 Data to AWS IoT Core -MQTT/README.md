@@ -1,5 +1,4 @@
-<h1 align="center">Implementing IoT with Azure -(Sending Data to Azure Iot Hub using ESP32)
-</h1>
+<h1 align="center"> Send ESP32 Data to AWS IoT Core -MQTT
 
 
 <h1 align="center">Steps
