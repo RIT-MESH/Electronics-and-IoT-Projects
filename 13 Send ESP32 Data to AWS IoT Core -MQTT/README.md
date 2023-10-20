@@ -3,7 +3,7 @@
 
 <h1 align="center">Steps
 </h1>
-<h1 align="center">Choose Iot Core in AWS IoT
+<h1 align="center">Choose IoT Core in AWS IoT
 </h1>
 
 <p align="center"><img src="https://github.com/RIT-MESH/Electronics-and-IoT-Projects/blob/main/13%20Send%20ESP32%20Data%20to%20AWS%20IoT%20Core%20-MQTT/AWS%201_1.png?raw=true"alt="Sublime's custom image"/>
