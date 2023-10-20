@@ -2,7 +2,7 @@
 </h1>
 
 
-<h1 align="center">Step 1
+<h1 align="center">Steps
 </h1>
 
 
