@@ -1,3 +1,7 @@
+<h1 align="center">Storing Data in AWS Dynamodb from AWS IoT Control
+
+</h1>
+
 Steps
 1) Go to IoT Core in AWS platform
 2) click Act>Rule>Create a rule --- >add a rule name and iot topics
